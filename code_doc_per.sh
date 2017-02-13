@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 limit=0.4
 doc=`grep "//.*" test.js  | wc -l`
 code=`grep -v "//.*" test.js | wc -l`
