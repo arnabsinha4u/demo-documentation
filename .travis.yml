@@ -1,7 +1,2 @@
-sudo: false
-language: node_js
-node_js:
-  - 4.6
-  - 6.9
 script:
   - code_doc_per.sh  
