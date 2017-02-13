@@ -1,2 +1,5 @@
+---
+language: shell
+    
 script:
-  - code_doc_per.sh  
+  - ./code_doc_per.sh  
