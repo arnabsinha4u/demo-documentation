@@ -12,5 +12,6 @@ if ((`bc <<< "$val>$limit"`))
 then
     true
 else
+    echo "Below threshhold $limit, thus failing!"
     false
 fi
