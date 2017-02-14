@@ -89,6 +89,42 @@ Worker.prototype.start = function (callback) {
       if (process.platform === 'win32') {
         //
         // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // On Windows, delete the 'symbolic' sock file. This
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
+        // file is used for exploration during `forever list`
+        // as a mapping to the `\\.pipe\\*` "files" that can't
         // file is used for exploration during `forever list`
         // as a mapping to the `\\.pipe\\*` "files" that can't
         // On Windows, delete the 'symbolic' sock file. This
