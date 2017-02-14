@@ -1,5 +1,5 @@
 ---
-language: shell
+language: bash 
     
 script:
-  - ./code_doc_per.sh  
+  - bash code_doc_per.sh  
