@@ -1,8 +1,10 @@
 ---
 language: bash 
 
-install:
-  - apt-get install bc
+addons:
+  apt:
+    packages:
+    - bc    
 
 script:
   - bash code_doc_per.sh  
