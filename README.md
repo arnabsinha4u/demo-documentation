@@ -3,6 +3,8 @@
 COURTSEY: https://github.com/foreverjs/forever
 Copying it for demo on inch-ci documentation
 
+[![Build Status](https://travis-ci.org/arnabsinha4u/demo-documentation.svg?branch=master)](https://travis-ci.org/arnabsinha4u/demo-documentation)
+
 [![Inline docs](http://inch-ci.org/github/arnabsinha4u/demo-documentation.svg?branch=master)](http://inch-ci.org/github/arnabsinha4u/demo-documentation)
 
 
